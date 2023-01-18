@@ -7,7 +7,9 @@ Bu ödevin içerisinde
 
 dosyaları bulunmaktadır.
 
-![MyProject](Ekran Resmi 2023-01-18 11.42.07.png)
+![alt text](https://github.com/hbakin/kodluyoruzilkrepo/blob/bb6777049ade2108b4592c8fa6b9221bf3d47641/Ekran%20Resmi%202023-01-18%2011.42.07.png)
+
+
 
 
 ## Installation
