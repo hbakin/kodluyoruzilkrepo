@@ -3,11 +3,11 @@
 Bu ödevin içerisinde 
 - Readme
 - index.html 
-- img klasörü
+- Ekran fotografı
 
 dosyaları bulunmaktadır.
 
-![MyProject](img/31.png)
+![MyProject](Ekran Resmi 2023-01-18 11.42.07.png)
 
 
 ## Installation
@@ -21,15 +21,13 @@ dosyaları bulunmaktadır.
 ---
 
 
-İndirilen clone projenin dizinini bulup giriyoruz.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
 
 `cd kodluyoruzilkrepo`
 
-cloneladığımız reponun bulunduğu klasöre girdikten sonra
-
 `code .`
-
-kodu ile VSC'de dosyamızı çalıştırıyoruz.
 
 ---
 ## Contributing
